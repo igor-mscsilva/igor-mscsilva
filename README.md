@@ -24,6 +24,13 @@ Email: igor_mscsilva@outlook.com
             src="https://custom-icon-badges.demolab.com/github/followers/igor-mscsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/igor-silva-7b9079207/">
+        <img
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
