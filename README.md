@@ -186,3 +186,5 @@ Aqui estão as principais tecnologias e linguagens que domino e utilizo em meus 
 <p align="center">
   Fique à vontade para explorar meus repositórios e se conectar!
 </p>
+
+![snake gif](https://github.com/igor-mscsilva/igor-mscsilva/blob/output/github-contribution-grid-snake.svg)
